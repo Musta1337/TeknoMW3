@@ -5,5 +5,5 @@ This Repository also contain Example InfinityScripts and InfinityScript various 
 ## Support for Server and Client issues and getting started.
 You can get Help with Server and Client Issues on wiki at [Wiki](https://github.com/Musta1337/TeknoMW3/wiki).
 
-##Note
+## Note
 TeknoMW3 does not provide any kind of MW3 files to people. You can play on TeknoMW3 with your own game files.
