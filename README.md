@@ -4,3 +4,6 @@ TeknoMW3 is a client for IW5 (Call of Duty Modern Warfare 3). This Repository do
 This Repository also contain Example InfinityScripts and InfinityScript various versions to get started.
 ## Support for Server and Client issues and getting started.
 You can get Help with Server and Client Issues on wiki at [Wiki](https://github.com/Musta1337/TeknoMW3/wiki).
+
+##Note
+TeknoMW3 does not provide any kind of MW3 files to people. You can play on TeknoMW3 with your own game files.
