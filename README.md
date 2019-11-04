@@ -16,13 +16,45 @@
   - If you don't know English, you can use [DeepL](https://www.deepl.com/translator) as an English to X Language Translator. If you know Spanish, you can visit the [SoyRA Repository](https://github.com/SoyRA/TeknoMW3).
 - **TeknoGods** (and therefore TeknoMW3) doesn't support piracy, this means they won't be able to give you base game files (like DLC, Update 1.4.382 or 1.9.446, etc.).
 
+## Table of Contents
+- [Home](../../wiki)
+  - [Features](../../wiki#features)
+  - [Installation Guide](../../wiki#teknomw3-installation-guide)
+  - [Ask for help](../../wiki#ask-for-help)
+  - [Report a bug](../../wiki#report-a-bug)
+  - [Changelog](../../wiki#changelog)
+- [Client](../../wiki/Client)
+  - [Installation](../../wiki/Client#installation)
+    - [Installation Note](../../wiki/Client#note)
+    - [Installation Process](../../wiki/Client#installation-process)
+  - [Color Codes](../../wiki/Client#color-codes)
+- [Server](../../wiki/Server)
+  - [Server Setup](../../wiki/Server#setup-for-server)
+    - [Note](../../wiki/Server#note)
+    - [Installation Process](../../wiki/Server#installation-process)
+    - [Server Configuration](../../wiki/Server#server-configuration)
+  - [Startup Script](../../wiki/Server#startup-script)
+  - [Parameters](../../wiki/Server#parameters)
+- [Frequently Asked Questions](../../wiki/Frequently-Asked-Questions)
+- [Troubleshooting](../../wiki/Troubleshooting)
+  - [Client-Side](../../wiki/Troubleshooting#client-side)
+  - [Server-Side](../../wiki/Troubleshooting#server-side)
+  - [Client and Server Side](../../wiki/Troubleshooting#client-and-server-side)
+- [[B3] Big Brother Bot](../../wiki/Big-Brother-Bot-Setup)
+- [Update 1.4.82](../../wiki/Update-1.4.382)
+- [TeknoMW3 2.92](../../wiki/TekonMW3-2.92)
+- [TeknoMW3 Links](#teknomw3-links)
+- [Important CoD: MW 3 Links](#important-cod-mw-3-links)
+
 ## TeknoMW3 Links
+**[`^        BACK TO TOP        ^`](#table-of-contents)**
 - [Website](https://www.teknomw3.pw/) - Official website of TeknoMW3.
 - [Blog](https://www.teknomw3.pw/blog/) - Official blog of TeknoMW3, where important announcements about the project will be placed.
 - [Forum](https://forum.teknomw3.pw/) - Official forum of TeknoMW3, where you will find all the guides and more about the project.
 - [Discord](https://discord.gg/7Wxn85M) - Official server of TeknoMW3, it is better that you ask for support here and other things about the project.
 
 ## Important CoD: MW 3 Links
+**[`^        BACK TO TOP        ^`](#table-of-contents)**
 - [Manual](https://store.steampowered.com/manual/115300/)
 - [Discussions](https://steamcommunity.com/app/42680/discussions/) ([MP](https://steamcommunity.com/app/42690/discussions/))
 - [Guides](https://steamcommunity.com/app/42680/guides/) ([MP](https://steamcommunity.com/app/42690/guides/))
