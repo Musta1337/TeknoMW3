@@ -1,5 +1,5 @@
-# TeknoGods (TeknoMW3)
-![Status](https://img.shields.io/badge/Status-Online-success?style=flat-square&logo=statuspage&logoColor=fff&labelColor=000) ![Plataform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-orange?style=flat-square&logo=windows&logoColor=fff&labelColor=000) ![Mods](https://img.shields.io/badge/Mods-InfinityScript%20(C%23)-blue?style=flat-square&logo=atom&logoColor=fff&labelColor=000)
+# TeknoMW3 <a href="#"><img src="../../blob/master/Resources/Images/TeknoMW3-Logo.png" alt="TeknoMW3-Logo.png" title="TeknoMW3" align="right" width="64" height="64"/></a>
+![Status](https://img.shields.io/badge/Status-Online-success?style=flat-square&logo=statuspage&logoColor=fff&labelColor=000) ![Plataform](https://img.shields.io/badge/Platform-Windows-orange?style=flat-square&logo=windows&logoColor=fff&labelColor=000) ![Mods](https://img.shields.io/badge/Mods-InfinityScript%20(C%23)-blue?style=flat-square&logo=atom&logoColor=fff&labelColor=000)
 - **TeknoMW3** is a project of **TeknoGods** to play the **Call of Duty: Modern Warfare 3** (with the (official) code name of **IW5**).
   - It also has other projects, due to the fact that TeknoGods is a team of programmers who like to work on several extreme modification projects (like TeknoParrot).
 - It has the following **main features**:
@@ -11,10 +11,12 @@
   - Easy to install
 
 ## Notice
-- It is preferable that you find information and everything in the [TeknoMW3's Forum](#teknomw3-links), since this is where everything will be really updated.
 - This repository doesn't contain any TeknoMW3 code, it just provides support and help to English speaking users.
-  - If you don't know English, you can use [DeepL](https://www.deepl.com/translator) as an English to X Language Translator. If you know Spanish, you can visit the [SoyRA Repository](https://github.com/SoyRA/TeknoMW3).
+  - If you don't know English, you can use [DeepL](https://www.deepl.com/translator) as an English to X Language Translator. If you know Spanish, you can visit the [SoyRA's Repository](https://github.com/SoyRA/TeknoMW3).
 - **TeknoGods** (and therefore TeknoMW3) doesn't support piracy, this means they won't be able to give you base game files (like DLC, Update 1.4.382 or 1.9.446, etc.).
+- **TeknoGods** (and therefore TeknoMW3) doesn't support **piracy**, this means:
+  - We can' t give you game files (like [Update 1.4.382](../../wiki/Update-1.4.382)).
+  - We won't help you if you've used a pirate copy (the game is [free on Steam](../../wiki/Base-Game---DLC). Why do you need to use _[Lowlife repackers profiting of other peoples work].ru?_)
 
 ## Table of Contents
 - [Home](../../wiki)
@@ -42,16 +44,20 @@
   - [Client and Server Side](../../wiki/Troubleshooting#client-and-server-side)
 - [[B3] Big Brother Bot](../../wiki/Big-Brother-Bot-Setup)
 - [Update 1.4.82](../../wiki/Update-1.4.382)
-- [TeknoMW3 2.92](../../wiki/TekonMW3-2.92)
+- [TeknoMW3 2.92 - Play SP / SO](../../wiki/TekonMW3-2.92)
 - [TeknoMW3 Links](#teknomw3-links)
 - [Important CoD: MW 3 Links](#important-cod-mw-3-links)
 
 ## TeknoMW3 Links
 **[`^        BACK TO TOP        ^`](#table-of-contents)**
-- [Website](https://www.teknomw3.pw/) - Official website of TeknoMW3.
-- [Blog](https://www.teknomw3.pw/blog/) - Official blog of TeknoMW3, where important announcements about the project will be placed.
-- [Forum](https://forum.teknomw3.pw/) - Official forum of TeknoMW3, where you will find all the guides and more about the project.
 - [Discord](https://discord.gg/7Wxn85M) - Official server of TeknoMW3, it is better that you ask for support here and other things about the project.
+  - Down or not used anymore, be careful:
+    - [TeknoMW3 - Website](https://www.teknomw3.pw/) - Official website of TeknoMW3.
+    - [TeknoMW3 - Blog](https://www.teknomw3.pw/blog/) - Official blog of TeknoMW3, where important announcements about the project will be placed.
+    - [TeknoMW3 - Forum](https://forum.teknomw3.pw/) - Official forum of TeknoMW3, where you will find all the guides and more about the project.
+    - [TeknoGods - Website](https://teknogods.com/) - Official website of TeknoGods.
+    - [TeknoGods - Blog](https://teknogods.com/?page_id=1244) - Official blog of TeknoGods, where important announcements about the project will be placed (not only for TeknoMW3).
+    - [TeknoGods - Forum](https://forum.teknogods.com/viewforum.php?f=40) - Official forum of TeknoMW3, where you will find all the guides and more about the project (TeknoMW3 subforum).
 
 ## Important CoD: MW 3 Links
 **[`^        BACK TO TOP        ^`](#table-of-contents)**
