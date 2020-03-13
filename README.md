@@ -43,7 +43,7 @@
   - [Client and Server Side](../../wiki/Troubleshooting#client-and-server-side)
 - [[B3] Big Brother Bot](../../wiki/Big-Brother-Bot-Setup)
 - [Downloading the Base Game / DLCs / Update 1.4.382 / Update 1.9.446](../../wiki/Base-Game---DLC)
-- [TeknoMW3 2.92 - Play Singleplayer, Special Ops & Coop](../../wiki/TekonMW3-2.92)
+- [TeknoMW3 2.92 - Play Singleplayer, Special Ops & Coop](../../wiki/TeknoMW3-2.92)
 - [TeknoMW3's Changelog](../../wiki/TeknoMW3's-Changelog)
 - [TeknoMW3 Links](#teknomw3-links)
 - [Important CoD: MW 3 Links](#important-cod-mw-3-links)
