@@ -13,7 +13,6 @@
 ## Notice
 - This repository doesn't contain any TeknoMW3 code, it just provides support and help to English speaking users.
   - If you don't know English, you can use [DeepL](https://www.deepl.com/translator) as an English to X Language Translator. If you know Spanish, you can visit the [SoyRA's Repository](https://github.com/SoyRA/TeknoMW3).
-- **TeknoGods** (and therefore TeknoMW3) doesn't support piracy, this means they won't be able to give you base game files (like DLC, Update 1.4.382 or 1.9.446, etc.).
 - **TeknoGods** (and therefore TeknoMW3) doesn't support **piracy**, this means:
   - We can' t give you game files (like [Update 1.4.382](../../wiki/Update-1.4.382)).
   - We won't help you if you've used a pirate copy (the game is [free on Steam](../../wiki/Base-Game---DLC). Why do you need to use _[Lowlife repackers profiting of other peoples work].ru?_)
@@ -43,8 +42,9 @@
   - [Server-Side](../../wiki/Troubleshooting#server-side)
   - [Client and Server Side](../../wiki/Troubleshooting#client-and-server-side)
 - [[B3] Big Brother Bot](../../wiki/Big-Brother-Bot-Setup)
-- [Update 1.4.82](../../wiki/Update-1.4.382)
-- [TeknoMW3 2.92 - Play SP / SO](../../wiki/TekonMW3-2.92)
+- [Downloading the Base Game / DLCs / Update 1.4.382 / Update 1.9.446](../../wiki/Base-Game---DLC)
+- [TeknoMW3 2.92 - Play Singleplayer, Special Ops & Coop](../../wiki/TekonMW3-2.92)
+- [TeknoMW3's Changelog](../../wiki/TeknoMW3's-Changelog)
 - [TeknoMW3 Links](#teknomw3-links)
 - [Important CoD: MW 3 Links](#important-cod-mw-3-links)
 
