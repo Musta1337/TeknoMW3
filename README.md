@@ -73,6 +73,7 @@
   - [What do the options in teknogods.ini mean?](../../wiki/Frequently-Asked-Questions#what-do-the-options-in-teknogodsini-mean)
 - [Troubleshooting](../../wiki/Troubleshooting)
   - [Client-Side](../../wiki/Troubleshooting#client-side)
+    - [Update servers are currently unavailable / I can't press Play / Error when updating / Etc.](../../wiki/Troubleshooting#update-servers-are-currently-unavailable--i-cant-press-play--error-when-updating--etc)
     - [TeknoMW3_Client_Launcher.exe stopped working after pressing play](../../wiki/Troubleshooting#teknomw3_client_launcherexe-stopped-working-after-pressing-play)
     - [My FPS and FOV values aren't saved](../../wiki/Troubleshooting#my-fps-and-fov-values-arent-saved)
     - [When I start the game, I get an error saying that some .DLL file is missing on my computer / Couldn't load localization.txt / Couldn't load image xxx](../../wiki/Troubleshooting#when-i-start-the-game-i-get-an-error-saying-that-some-dll-file-is-missing-on-my-computer--couldnt-load-localizationtxt--couldnt-load-image-xxx)
