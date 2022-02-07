@@ -9,6 +9,10 @@
   - Stability and increased client and server performance
   - High server modification
   - Easy to install
+<br><br>
+- [How to play TeknoMW3?](../../wiki/Client)<br><br>
+- [How to install TeknoMW3 Server (Windows)](../../wiki/Server)
+- [How to install TeknoMW3 Server (Linux Ubuntu)](../../wiki/Server-Ubuntu)
 
 ## Notice
 - This repository doesn't contain any TeknoMW3 code, it just provides support and help to English speaking users.
