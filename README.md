@@ -10,7 +10,7 @@
   - High server modification
   - Easy to install
 <br><br>
-- [How to play TeknoMW3?](../../wiki/Client)<br><br>
+- [How to play TeknoMW3?](../../wiki/Client#note)<br><br>
 - [How to install TeknoMW3 Server (Windows)](../../wiki/Server)
 - [How to install TeknoMW3 Server (Linux Ubuntu)](../../wiki/Server-Ubuntu)
 
