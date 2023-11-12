@@ -1,25 +1,26 @@
 # TeknoMW3 <a href="#"><img src="../../blob/master/Resources/Images/TeknoMW3-Logo.png" alt="TeknoMW3-Logo.png" title="TeknoMW3" align="right" width="64" height="64"/></a>
 ![Status](https://img.shields.io/badge/Status-Online-success?style=flat-square&logo=statuspage&logoColor=fff&labelColor=000) ![Plataform](https://img.shields.io/badge/Platform-Windows-orange?style=flat-square&logo=windows&logoColor=fff&labelColor=000) ![Mods](https://img.shields.io/badge/Mods-InfinityScript%20(C%23)-blue?style=flat-square&logo=atom&logoColor=fff&labelColor=000)
-- **TeknoMW3** is a project of **TeknoGods** to play the **Call of Duty: Modern Warfare 3** (with the (official) code name of **IW5**).
-  - It also has other projects, due to the fact that TeknoGods is a team of programmers who like to work on several extreme modification projects (like TeknoParrot).
-- It has the following **main features**:
+- **TeknoMW3 is a mod for Call of Duty: Modern Warfare 3 (IW5) by TeknoGods**.
+  - TeknoGods is also known for it's project TeknoParrot.
+- **TeknoMW3 offers:**
   - Dedicated Servers [MP]
-  - InfinityScript support [MP]
-  - The best for a LAN [SO and MP]
-  - Stability and increased client and server performance
-  - High server modification
+  - High level of server customization using InfinityScript [MP]
+  - Various client/server modifications and improvements [MP]
+  - Stability and increased client/server performance [MP]
+  - LAN support [MP & SO]
   - Easy to install
 <br><br>
-- [How to play TeknoMW3?](../../wiki/Client#note)<br><br>
+- [How to install and play TeknoMW3 Multiplayer](../../wiki/Client#note)<br><br>
 - [How to install TeknoMW3 Server (Windows)](../../wiki/Server)
 - [How to install TeknoMW3 Server (Linux Ubuntu)](../../wiki/Server-Ubuntu)
 
 ## Notice
 - This repository doesn't contain any TeknoMW3 code, it just provides support and help to English speaking users.
   - If you don't know English, you can use [DeepL](https://www.deepl.com/translator) as an English to X Language Translator. If you know Spanish, you can visit the [SoyRA's Repository](https://github.com/SoyRA/TeknoMW3).
-- **TeknoGods** (and therefore TeknoMW3) doesn't support **piracy**, this means:
-  - We can' t give you game files (like [Update 1.4.382](../../wiki/Update-1.4.382)).
-  - We won't help you if you've used a pirate copy (the game is [free on Steam](../../wiki/Base-Game---DLC). Why do you need to use _[Lowlife repackers profiting of other peoples work].ru?_)
+- **TeknoMW3 or TeknoGods does not support piracy**, this means:
+  - We do not provide any game files or copyrighted material.
+  - We only support original game files from Steam. We will not help you, if you downloaded the game from any other sources than Steam.
+
 
 ## Table of Contents
 - [Home](../../wiki)
@@ -120,11 +121,8 @@
 
 ## TeknoMW3 Links
 **[`^        BACK TO TOP        ^`](#table-of-contents)**
-- [Discord](https://discord.gg/7Wxn85M) - Official server of TeknoMW3, it is better that you ask for support here and other things about the project.
-  - Down or not used anymore, be careful:
-    - [TeknoMW3 - Website](https://www.teknomw3.pw/) - Official website of TeknoMW3.
-    - [TeknoMW3 - Blog](https://www.teknomw3.pw/blog/) - Official blog of TeknoMW3, where important announcements about the project will be placed.
-    - [TeknoMW3 - Forum](https://forum.teknomw3.pw/) - Official forum of TeknoMW3, where you will find all the guides and more about the project.
+- [Discord](https://discord.gg/7Wxn85M) - TeknoMW3 Discord. You are welcome to join the community, stay up to date with news or ask for support.
+  - Not used anymore:
     - [TeknoGods - Website](https://teknogods.com/) - Official website of TeknoGods.
     - [TeknoGods - Blog](https://teknogods.com/?page_id=1244) - Official blog of TeknoGods, where important announcements about the project will be placed (not only for TeknoMW3).
     - [TeknoGods - Forum](https://forum.teknogods.com/viewforum.php?f=40) - Official forum of TeknoMW3, where you will find all the guides and more about the project (TeknoMW3 subforum).
