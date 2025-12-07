@@ -2,6 +2,7 @@
 ![Status](https://img.shields.io/badge/Status-Online-success?style=flat-square&logo=statuspage&logoColor=fff&labelColor=000) ![Plataform](https://img.shields.io/badge/Platform-Windows-orange?style=flat-square&logo=windows&logoColor=fff&labelColor=000) ![Mods](https://img.shields.io/badge/Mods-InfinityScript%20(C%23)-blue?style=flat-square&logo=atom&logoColor=fff&labelColor=000)
 - **TeknoMW3 is a mod for Call of Duty: Modern Warfare 3 (IW5) by TeknoGods**.
   - TeknoGods is also known for it's project TeknoParrot.
+<br><br>
 - **TeknoMW3 offers:**
   - Dedicated Servers
   - High level of server customization using InfinityScript
