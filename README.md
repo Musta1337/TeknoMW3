@@ -3,11 +3,11 @@
 - **TeknoMW3 is a mod for Call of Duty: Modern Warfare 3 (IW5) by TeknoGods**.
   - TeknoGods is also known for it's project TeknoParrot.
 - **TeknoMW3 offers:**
-  - Dedicated Servers [MP]
-  - High level of server customization using InfinityScript [MP]
-  - Various client/server modifications and improvements [MP]
-  - Stability and increased client/server performance [MP]
-  - LAN support [MP & SO]
+  - Dedicated Servers
+  - High level of server customization using InfinityScript
+  - Various client/server modifications and improvements
+  - Stability and increased client/server performance
+  - LAN support
   - Easy to install
 <br><br>
 - [How to install and play TeknoMW3 Multiplayer](../../wiki/Client#note)<br><br>
