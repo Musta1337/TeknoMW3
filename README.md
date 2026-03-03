@@ -16,7 +16,7 @@
 - [How to install TeknoMW3 Server (Linux Ubuntu)](../../wiki/Server-Ubuntu#requirements)
 
 ## Notice
-- This repository doesn't contain any TeknoMW3 code, it just provides support and help to English speaking users.
+- This repository doesn't contain any TeknoMW3 code, it just provides support and help.
   - If you don't know English, you can use [DeepL](https://www.deepl.com/translator) as an English to X Language Translator.
 - **TeknoMW3 or TeknoGods does not support piracy**, this means:
   - We do not provide any game files or copyrighted material.
