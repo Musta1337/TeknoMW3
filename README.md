@@ -17,7 +17,7 @@
 
 ## Notice
 - This repository doesn't contain any TeknoMW3 code, it just provides support and help to English speaking users.
-  - If you don't know English, you can use [DeepL](https://www.deepl.com/translator) as an English to X Language Translator. If you know Spanish, you can visit the [SoyRA's Repository](https://github.com/SoyRA/TeknoMW3).
+  - If you don't know English, you can use [DeepL](https://www.deepl.com/translator) as an English to X Language Translator.
 - **TeknoMW3 or TeknoGods does not support piracy**, this means:
   - We do not provide any game files or copyrighted material.
   - We only support original game files from Steam. We will not help you, if you downloaded the game from any other sources than Steam.
