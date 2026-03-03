@@ -41,7 +41,7 @@
   - [Launch Parameters](../../wiki/Server#launch-parameters)
   - [Basic Commands](../../wiki/Server#basic-commands)
   - [Colors](../../wiki/Server#colors)
-- [Server (Ubuntu)](../../wiki/Server-Ubuntu)
+- [Server (Linux Ubuntu)](../../wiki/Server-Ubuntu)
   - [Requirements](../../wiki/Server-Ubuntu#requirements)
   - [Basic Setup and installing a Desktop Environment](../../wiki/Server-Ubuntu#basic-setup-and-installing-a-desktop-environment)
   - [Installing Wine](../../wiki/Server-Ubuntu#installing-wine)
