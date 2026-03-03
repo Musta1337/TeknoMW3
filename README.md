@@ -13,7 +13,7 @@
 <br><br>
 - [How to install and play TeknoMW3 Multiplayer](../../wiki/Client#note)<br><br>
 - [How to install TeknoMW3 Server (Windows)](../../wiki/Server#note)
-- [How to install TeknoMW3 Server (Linux Ubuntu)](../../wiki/Server-Ubuntu)
+- [How to install TeknoMW3 Server (Linux Ubuntu)](../../wiki/Server-Ubuntu#requirements)
 
 ## Notice
 - This repository doesn't contain any TeknoMW3 code, it just provides support and help to English speaking users.
