@@ -13,7 +13,7 @@
 <br><br>
 - [How to install and play TeknoMW3 Multiplayer](../../wiki/Client#note)<br><br>
 - [How to install TeknoMW3 Server (Windows)](../../wiki/Server#note)
-- [How to install TeknoMW3 Server (Linux Ubuntu)](../../wiki/Server-Ubuntu#requirements)
+- [How to install TeknoMW3 Server (Linux Ubuntu)](../../wiki/Server-Ubuntu#note)
 
 ## Notice
 - This repository doesn't contain any TeknoMW3 code, it just provides support and help.
@@ -42,6 +42,7 @@
   - [Basic Commands](../../wiki/Server#basic-commands)
   - [Colors](../../wiki/Server#colors)
 - [Server (Linux Ubuntu)](../../wiki/Server-Ubuntu)
+  - [Note](../../wiki/Server-Ubuntu#note)
   - [Requirements](../../wiki/Server-Ubuntu#requirements)
   - [Basic Setup and installing a Desktop Environment](../../wiki/Server-Ubuntu#basic-setup-and-installing-a-desktop-environment)
   - [Installing Wine](../../wiki/Server-Ubuntu#installing-wine)
