@@ -48,6 +48,7 @@
   - [Installing Wine](../../wiki/Server-Ubuntu#installing-wine)
   - [Connecting to Xrdp from Windows using Remote Desktop Connection](../../wiki/Server-Ubuntu#connecting-to-xrdp-from-windows-using-remote-desktop-connection)
   - [Starting the TeknoMW3 Server using Wine](../../wiki/Server-Ubuntu#starting-the-teknomw3-server-using-wine)
+- [TeknoMW3 Spec Ops Co-Op - Play Singleplayer, Special Ops & Co-Op](../../wiki/TeknoMW3-Spec-Ops-Co‐Op)
 - [Frequently Asked Questions](../../wiki/Frequently-Asked-Questions)
   - [Where can I download the latest version of TeknoMW3?](../../wiki/Frequently-Asked-Questions#where-can-i-download-the-latest-version-of-teknomw3)
   - [Where can I download the Base Game, DLCs, Update 1.4.382 and Update 1.9.446?](../../wiki/Frequently-Asked-Questions#where-can-i-download-the-base-game-dlcs-update-14382-and-update-19446)
@@ -98,7 +99,6 @@
     - [I can't find Update 1.4.382](../../wiki/Troubleshooting#i-cant-find-update-14382)
 - [[B3] Big Brother Bot](../../wiki/Big-Brother-Bot-Setup)
 - [Downloading the Base Game / DLCs / Update 1.4.382 / Update 1.9.446](../../wiki/Base-Game---DLC)
-- [TeknoMW3 2.92 - Play Singleplayer, Special Ops & Coop](../../wiki/TeknoMW3-2.92)
 - [TeknoMW3 Links](#teknomw3-links)
 - [Important CoD: MW 3 Links](#important-cod-mw-3-links)
 
